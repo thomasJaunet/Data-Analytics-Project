@@ -10,3 +10,10 @@ Our project is organized as follow:
   5. Visuals which contains some nice visualizations of our datasset
   6. PPT which contains our presentation
   
+These are the parts we would like to highlight:
+  1. Scrap the Airbnb website was difficult. We scrapped the reviews and the ratings of over 5000 listings (when the listing was still available)
+  2. Build Several machine learning models (Linear Regression, K-Nearest Neighbor, Random Forest, Gradient Boosting) and tune them in order to achieve better performances (Add features, limit number of features to avoid overfitting, get rid of outlier values that weren't relevant for our purpose, indeed we don't want our parents and friends to pay too much, use grid search algorithm to fine tune the parameters)
+  3. Perform a sentiment analysis for the three neighborhoods using Vader, NRC, display a wordcloud ans a word summarization to understand what people talk the most about and construct a LDA model to see the important topics (finally limited just to one topic, since it was always the same words and patterns, eventually this model was not very relevant)
+  4. Add a visualization file using folium library tonicely display some features of our dataset on NYC map
+  
+Thanks to the new shills were acquired in this class, we have been able to perform these analysis and to work on the skills we acquired furing the semester.
