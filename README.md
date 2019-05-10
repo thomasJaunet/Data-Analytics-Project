@@ -16,4 +16,4 @@ These are the parts we would like to highlight:
   3. Perform a sentiment analysis over the three neighborhoods using Vader, NRC, display a wordcloud ans a word summarization to understand what people talk the most about and construct a LDA model to see the important topics (finally limited just to one topic, since it was always the same words and patterns, eventually this model was not very relevant)
   4. Add a visualization file using folium library to nicely display some features of our dataset on NYC map
   
-Thanks to the new shills we acquired in this class, we have been able to perform these analysis and to work on the skills we acquired during the semester.
+Thanks to the new skills we acquired in this class, we have been able to perform these analysis and to work on the skills we acquired during the semester.
